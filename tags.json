@@ -1,0 +1,29 @@
+{
+  "Artificial Intelligence": {
+    "link": "https://medium.com/topic/artificial-intelligence"
+  },
+  "Machine Learning": {
+    "link": "https://medium.com/tag/machine-learning"
+  },
+  "Deep Learning": {
+    "link": "https://medium.com/tag/deep-learning"
+  },
+  "Data Analysis": {
+    "link": "https://medium.com/tag/data-analysis" 
+  },
+    "NLP": {
+    "link": "https://medium.com/tag/nlp" 
+  },
+    "Neural Networks": {
+    "link": "https://medium.com/tag/neural-networks"
+  },
+  "Data visualisation": {
+   "link": "https://medium.com/tag/data-visualisation"
+  },
+   "Big Data": {
+    "link": "https://medium.com/tag/big-data"
+  },
+    "Data": {
+    "link": "https://medium.com/tag/data"
+  }
+}
